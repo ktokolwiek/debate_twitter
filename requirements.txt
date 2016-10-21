@@ -1,0 +1,19 @@
+## The following requirements were added by pip freeze:
+appnope==0.1.0
+decorator==4.0.10
+ipython-genutils==0.1.0
+nltk==3.2.1
+pexpect==4.2.1
+pickleshare==0.7.4
+prompt-toolkit==1.0.7
+ptyprocess==0.5.1
+PySide==1.2.4
+python-dateutil==2.5.3
+scikit-learn==0.18
+simplegeneric==0.8.1
+six==1.10.0
+sklearn==0.0
+traitlets==4.3.1
+twitter==1.17.1
+wcwidth==0.1.7
+wordcloud==1.2.1
